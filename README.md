@@ -4,24 +4,22 @@
 I am independently studying modern web development tools.**
 
 ![Header.png](./assets/Header.png)
-<ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 5px;">
-    <li style="display: flex; align-items: center; gap: 5px">
-        <img src="./assets/icons/Map.png"> 
-        I'm from Perm, Russia 
-    </li>
-    <li style="display: flex; align-items: center; gap: 5px">
-        <img src="./assets/icons/Clock.png"> 
-        Started my own path in WEB in 2026
-    </li>
-    <li style="display: flex; align-items: center; gap: 5px">
-        <img src="./assets/icons/Calendar.png"> 
-        More than 2 year of freelance/individual-entrepreneur Backend experience 
-    </li>
-    <li style="display: flex; align-items: center; gap: 5px">
-        <img src="./assets/icons/Clip.png"> 
-        Currently based in St. Petersburg, Russia 
-    </li>
-</ul>
+<p>
+    <img src="./assets/icons/Map.png" valign="middle"> 
+    I'm from Perm, Russia
+</p>
+<p>
+    <img src="./assets/icons/Clock.png" valign="middle"> 
+    Started my own path in WEB in 2026
+</p>
+<p>
+    <img src="./assets/icons/Calendar.png" valign="middle">
+    More than 2 year of freelance/individual-entrepreneur Backend experience
+</p>
+<p>
+    <img src="./assets/icons/Clip.png" valign="middle"> 
+    Currently based in St. Petersburg, Russia
+</p>
 
 ___
 
