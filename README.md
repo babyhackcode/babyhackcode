@@ -5,19 +5,19 @@ I am independently studying modern web development tools.**
 
 ![Header.png](./assets/Header.png)
 <p>
-    <img src="./assets/icons/Map.png" valign="middle"> 
+    <img src="./assets/icons/Map.png" valign="middle" alt="Map"> 
     I'm from Perm, Russia
 </p>
 <p>
-    <img src="./assets/icons/Clock.png" valign="middle"> 
+    <img src="./assets/icons/Clock.png" valign="middle" alt="Clock"> 
     Started my own path in WEB in 2026
 </p>
 <p>
-    <img src="./assets/icons/Calendar.png" valign="middle">
+    <img src="./assets/icons/Calendar.png" valign="middle" alt="Calendar">
     More than 2 year of freelance/individual-entrepreneur Backend experience
 </p>
 <p>
-    <img src="./assets/icons/Clip.png" valign="middle"> 
+    <img src="./assets/icons/Clip.png" valign="middle" alt="Clip"> 
     Currently based in St. Petersburg, Russia
 </p>
 
@@ -25,7 +25,7 @@ ___
 
 ### Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,vite,git,github,sass)
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gsap.svg" style="padding-left: 5px" height="46" alt="GSAP"> 
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gsap.svg" height="46" alt="GSAP" hspace="3">
 
 *Soft Skills:*
 
