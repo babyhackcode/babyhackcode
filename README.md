@@ -1,5 +1,4 @@
 # Junior Web Developer. Junior JavaScript engineer.
-___
 
 **👋 Welcome there, my name is Alexey Gladkikh. <br>
 I am independently studying modern web development tools.**
@@ -33,19 +32,22 @@ ___
 *Soft Skills:*
 
 ```
-Benevolence, Scrum, English language (A2), easy-going, aspiration to self-developing
+- Time management
+- Teamwork
+- English language (A2) 
+- Ease-going, 
+- Aspiration to self-developing
 ```
 
 ***And I'm really interested in enhancing that list***
 
 ___
 
-### Follow me
+**Web application development and reviewing for you** <br>
+⚠️ Price depends on <u>project size</u>
 
+### Follow me
 [![Email](https://img.shields.io/badge/babyhackcode@gmail.com-fff?style=for-the-badge&logo=gmail)](mailto:babyhackcode@gmail.com)
 [![Telergam](https://img.shields.io/badge/sokissmeplease-fff?style=for-the-badge&logo=telegram)](https://t.me/sokissmeplease)
-
-Contact me on Telegram <br>
-Price depends on project size
 
 
